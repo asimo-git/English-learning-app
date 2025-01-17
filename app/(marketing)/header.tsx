@@ -33,7 +33,7 @@ export function Header() {
               signUpFallbackRedirectUrl="/learn"
               forceRedirectUrl="/learn"
             >
-              <Button size="lg" variant="ghost">
+              <Button size="lg" variant="outline">
                 Log in
               </Button>
             </SignInButton>
